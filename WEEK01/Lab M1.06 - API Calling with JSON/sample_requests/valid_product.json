@@ -1,0 +1,8 @@
+{
+  "name": "Running Shoes",
+  "price": 79.99,
+  "category": "Footwear",
+  "brand": "Acme",
+  "description": "Lightweight shoes for daily training",
+  "features": ["Breathable mesh", "Rubber sole"]
+}
