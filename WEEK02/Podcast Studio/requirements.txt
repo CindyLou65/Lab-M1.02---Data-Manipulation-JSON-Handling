@@ -1,6 +1,22 @@
-# Python dependencies for the Podcast Studio project
-newspaper3k
-openai
-gradio
-pydub
-python-dotenv
+# Podcast Studio Python dependencies
+
+# Podcast Studio Python dependencies
+
+# For extracting and parsing online articles
+newspaper3k==0.2.8  
+
+# OpenAI API client
+openai==1.28.5  
+
+# Web interface for running the app (Gradio)
+gradio==3.43.1  
+
+# Audio processing (used for concatenating MP3s)
+pydub==0.25.1  
+
+# Load environment variables from .env
+python-dotenv==1.1.0  
+
+# XML/HTML parser required by newspaper3k
+lxml==4.9.3
+
